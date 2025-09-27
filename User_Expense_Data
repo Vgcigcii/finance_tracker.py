@@ -1,0 +1,27 @@
+[
+    {
+        "Category": "Travel",
+        "Amount": 25000.0,
+        "Date": "2025-09-09"
+    },
+    {
+        "Category": "Health",
+        "Amount": 25000.0,
+        "Date": "2025-09-09"
+    },
+    {
+        "Category": "Health",
+        "Amount": 25000.0,
+        "Date": "2025-09-09"
+    },
+    {
+        "Category": "house",
+        "Amount": 25000.0,
+        "Date": "2025-09-09"
+    },
+    {
+        "Category": "fun",
+        "Amount": 25100.0,
+        "Date": "2025-09-09"
+    }
+]
